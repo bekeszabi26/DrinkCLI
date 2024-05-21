@@ -1,0 +1,14 @@
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\bin\Debug\net7.0\drink.exe
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\bin\Debug\net7.0\drink.deps.json
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\bin\Debug\net7.0\drink.runtimeconfig.json
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\bin\Debug\net7.0\drink.dll
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\bin\Debug\net7.0\drink.pdb
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.AssemblyInfoInputs.cache
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.AssemblyInfo.cs
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.csproj.CoreCompileInputs.cache
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.dll
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\refint\drink.dll
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.pdb
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\drink.genruntimeconfig.cache
+C:\Users\Beke Szabolcs\Desktop\drink\drink\drink\obj\Debug\net7.0\ref\drink.dll
